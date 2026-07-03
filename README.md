@@ -1,4 +1,4 @@
-# Turtle Library — Complete Notes
+# Turtle Library
 
 ## What is Turtle?
 
