@@ -7,7 +7,9 @@ Turtle is Python's built-in drawing tool that moves a virtual pen on a canvas us
 Imagine you are holding a **marker** in your hand and there is a **white paper** in front of you. You can move the marker forward, turn it, lift it up, change its color. **Turtle does exactly this — but on a computer screen.** It is a virtual pen that draws whatever you command it to do.
 
 ## Demo 
-https://github.com/user-attachments/assets/c685939a-3499-49dd-b928-3a5f5fd130da
+
+https://github.com/user-attachments/assets/523fd864-0637-4106-8bcc-3d1a80f33be6
+
 
 
 
